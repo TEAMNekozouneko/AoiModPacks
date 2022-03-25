@@ -15,7 +15,7 @@
             "id": "Vanilla-1.18.2",
             "name": "配信サーバーパック (1.18.2)",
             "description": "配信サーバー参加用 (1.18.2)",
-            "icon": "https://github.com/TEAMNekozouneko/AoiLauncher/blob/master/docs/packs/1.18.2/icon.jpg?raw=true",
+            "icon": "https://github.com/TEAMNekozouneko/AoiModPacks/blob/master/docs/packs/1.18.2/icon.jpg?raw=true",
             "version": "1.0.0",
             "address": "nekozouneko.ddns.net:25565",
             "minecraftVersion": "1.18.2",
@@ -34,7 +34,7 @@
                     "artifact": {
                         "size": 4466148,
                         "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiLauncher/master/docs/packs/1.18.2/forge-1.18.2-40.0.25-installer.jar"
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/docs/packs/1.18.2/forge-1.18.2-40.0.25-installer.jar"
                     },
                     "subModules": []
                 }
@@ -44,7 +44,7 @@
             "id": "Vanilla-1.12.2",
             "name": "配信サーバーパック (1.12.2)",
             "description": "配信サーバー参加用 (1.12.2)",
-            "icon": "https://github.com/TEAMNekozouneko/AoiLauncher/blob/master/docs/packs/1.18.2/icon.jpg?raw=true",
+            "icon": "https://github.com/TEAMNekozouneko/AoiModPacks/blob/master/docs/packs/1.18.2/icon.jpg?raw=true",
             "version": "1.0.5",
             "address": "nekozouneko.ddns.net:25565",
             "minecraftVersion": "1.12.2",
@@ -295,7 +295,7 @@
                     "artifact": {
                         "size": 7723353,
                         "MD5": "998b3af9e657aacbd198e75d7d4f78fc",
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiLauncher/master/docs/packs/1.12.2/mods/viaforge-1.12.2-1.0.0.jar"
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/docs/packs/1.12.2/mods/viaforge-1.12.2-1.0.0.jar"
                     },
                     "required": {
                         "value": false,
