@@ -30,7 +30,7 @@
                 {
                     "id": "net.minecraftforge:forge-1.18.2-40.0.25:installer",
                     "name": "Minecraft Forge (1.18.2)",
-                    "type": "Forge",
+                    "type": "ForgeHosted",
                     "artifact": {
                         "size": 4466148,
                         "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
