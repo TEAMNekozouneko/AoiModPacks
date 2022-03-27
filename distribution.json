@@ -371,7 +371,7 @@
             "address": "word-considerable.craft.playit.gg",
             "minecraftVersion": "1.12.2",
             "mainServer": false,
-            "autoconnect": true,
+            "autoconnect": false,
             "discord": {
                 "shortId": "Minecraft",
                 "largeImageText": "プレイ中",
