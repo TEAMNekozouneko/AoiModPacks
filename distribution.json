@@ -28,7 +28,7 @@
             },
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge-1.18.2-40.0.25:1.18.2-40.0.25",
+                    "id": "net.minecraftforge:forge:1.18.2-40.0.25:installer",
                     "name": "Minecraft Forge (1.18.2)",
                     "type": "ForgeHosted",
                     "artifact": {
@@ -307,7 +307,7 @@
             },
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge-1.17.1-37.1.1:1.17.1-37.1.1",
+                    "id": "net.minecraftforge:forge:1.17.1-37.1.1:installer",
                     "name": "Minecraft Forge (1.17.1)",
                     "type": "Forge",
                     "artifact": {
@@ -347,7 +347,7 @@
             },
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge-1.16.5-36.2.33:1.16.5-36.2.33",
+                    "id": "net.minecraftforge:forge:1.16.5-36.2.33:installer",
                     "name": "Minecraft Forge (1.16.5)",
                     "type": "Forge",
                     "artifact": {
