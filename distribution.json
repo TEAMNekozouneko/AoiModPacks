@@ -16,7 +16,7 @@
             "name": "配信サーバーパック (1.18.2)",
             "description": "配信サーバー向けのパックです (1.18.2)",
             "icon": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/icon.jpg",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "address": "nekozouneko.ddns.net:25565",
             "minecraftVersion": "1.18.2",
             "mainServer": true,
@@ -111,12 +111,10 @@
                         "id": "net.minecraftforge:accesstransformers:8.0.4",
                         "name": "Accesstransformers",
                         "type": "Library",
-                        "downloads": {
-                            "artifact": {
-                                "url": "https://maven.minecraftforge.net/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar",
-                                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                                "size": 77756
-                            }
+                        "artifact": {
+                            "url": "https://maven.minecraftforge.net/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar",
+                            "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                            "size": 77756
                         }
                     },
                     {
