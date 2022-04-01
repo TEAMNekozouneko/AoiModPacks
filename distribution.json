@@ -315,7 +315,18 @@
                         "MD5": "1898529ac07f60019f1da3b673a129f4",
                         "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.17.1/forge-1.17.1-37.1.1-installer.jar"
                     },
-                    "subModules": []
+                    "subModules": [
+                        {
+                            "id": "1.17.1-37.1.1",
+                            "name": "Minecraft Forge (1.17.1) Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "MD5": "b7079fa92e1260761b77cbebbd5f65c0",
+                                "size": 17148,
+                                "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.17.1/1.17.1-forge-37.1.1.json"
+                            }
+                        }
+                    ]
                 }
             ]
         },
