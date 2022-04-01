@@ -32,8 +32,8 @@
                     "name": "Minecraft Forge (1.18.2)",
                     "type": "Forge",
                     "artifact": {
-                        "size": 4466148,
-                        "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
+                        "size": 6891973,
+                        "MD5": "8b33763737c3265ad97f5910d20a9832",
                         "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/forge-1.18.2-40.0.12-installer.jar"
                     },
                     "subModules": []
