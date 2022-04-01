@@ -28,16 +28,15 @@
             },
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.18.2-40.0.25:installer",
+                    "id": "net.minecraftforge:forge:1.18.2-40.0.34:installer",
                     "name": "Minecraft Forge (1.18.2)",
                     "type": "Forge",
                     "artifact": {
                         "size": 4466148,
                         "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/forge-1.18.2-40.0.25-installer.jar"
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/forge-1.18.2-40.0.34-installer.jar"
                     },
-                    "subModules": [
-                        ]
+                    "subModules": []
                 }
             ]
         },
@@ -66,18 +65,7 @@
                         "MD5": "1898529ac07f60019f1da3b673a129f4",
                         "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.17.1/forge-1.17.1-37.1.1-installer.jar"
                     },
-                    "subModules": [
-                        {
-                            "id": "1.17.1-37.1.1",
-                            "name": "Minecraft Forge (1.17.1) Manifest",
-                            "type": "VersionManifest",
-                            "artifact": {
-                                "MD5": "b7079fa92e1260761b77cbebbd5f65c0",
-                                "size": 17148,
-                                "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.17.1/1.17.1-forge-37.1.1.json"
-                            }
-                        }
-                    ]
+                    "subModules": []
                 }
             ]
         },
