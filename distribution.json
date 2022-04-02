@@ -39,7 +39,7 @@
                     "subModules": []
                 },
                 {
-                    "id": "optifine:OptiFine:1.18.2_HD_U_H6@jar",
+                    "id": "net.optifine:OptiFine:1.18.2_HD_U_H6@jar",
                     "name": "OptiFine",
                     "type": "ForgeMod",
                     "artifact": {
@@ -82,7 +82,7 @@
                     "subModules": []
                 },
                 {
-                    "id": "optifine:OptiFine:1.17.1_HD_U_H1@jar",
+                    "id": "net.optifine:OptiFine:1.17.1_HD_U_H1@jar",
                     "name": "OptiFine",
                     "type": "ForgeMod",
                     "artifact": {
