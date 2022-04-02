@@ -75,9 +75,9 @@
                     "name": "Minecraft Forge (1.17.1)",
                     "type": "Forge",
                     "artifact": {
-                        "size": 5294948,
-                        "MD5": "1898529ac07f60019f1da3b673a129f4",
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.17.1/forge-1.17.1-37.1.1-installer.jar"
+                        "size": 5276953,
+                        "MD5": "6d80606f12d3d38c62180108b96e6333",
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.17.1/forge-1.17.1-37.0.103-installer.jar"
                     },
                     "subModules": []
                 },
