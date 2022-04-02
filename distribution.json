@@ -37,20 +37,6 @@
                         "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/forge-1.18.2-40.0.12-installer.jar"
                     },
                     "subModules": []
-                },
-                {
-                    "id": "net.optifine:OptiFine:1.18.2_HD_U_H6@jar",
-                    "name": "OptiFine",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "MD5": "ee315fd9b16fd29cad117c29d021c544",
-                        "size": 6049486,
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/mods/OptiFine_1.18.2_HD_U_H6.jar"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
-                    }
                 }
             ]
         },
@@ -80,20 +66,6 @@
                         "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.17.1/forge-1.17.1-37.0.103-installer.jar"
                     },
                     "subModules": []
-                },
-                {
-                    "id": "net.optifine:OptiFine:1.17.1_HD_U_H1@jar",
-                    "name": "OptiFine",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "MD5": "ce4d0bc85481fc8e8ba10ab0106c9a5f",
-                        "size": 6344306,
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.17.1/mods/OptiFine_1.17.1_HD_U_H1.jar"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
-                    }
                 }
             ]
         },
@@ -123,20 +95,6 @@
                         "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.16.5/forge-1.16.5-36.2.33-installer.jar"
                     },
                     "subModules": []
-                },
-                {
-                    "id": "net.optifine:OptiFine:1.16.5_HD_U_G8@jar",
-                    "name": "OptiFine",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "MD5": "e0717ba6d1674af83036ebc479fc77b4",
-                        "size": 6046996,
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.16.5/mods/OptiFine_1.16.5_HD_U_G8.jar"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
-                    }
                 }
             ]
         },
@@ -396,20 +354,6 @@
                         "size": 7723353,
                         "MD5": "998b3af9e657aacbd198e75d7d4f78fc",
                         "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.12.2/mods/viaforge-1.12.2-1.0.0.jar"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
-                    }
-                },
-                {
-                    "id": "net.optifine:OptiFine:1.12.2_HD_U_G5@jar",
-                    "name": "OptiFine",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2457427,
-                        "MD5": "69616c9c9e913b1b164a975a0b9fa731",
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.12.2/mods/OptiFine_1.12.2_HD_U_G5.jar"
                     },
                     "required": {
                         "value": false,
@@ -720,20 +664,6 @@
                     "required": {
                         "value": true,
                         "def": true
-                    }
-                },
-                {
-                    "id": "net.optifine:OptiFine:1.12.2_HD_U_G5@jar",
-                    "name": "OptiFine",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2457427,
-                        "MD5": "69616c9c9e913b1b164a975a0b9fa731",
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.12.2/mods/OptiFine_1.12.2_HD_U_G5.jar"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
                     }
                 }
             ]
