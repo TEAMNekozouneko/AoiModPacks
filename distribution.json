@@ -28,13 +28,13 @@
             },
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.18.2-40.0.24:installer",
+                    "id": "net.minecraftforge:forge:1.18.2-40.1.0:installer",
                     "name": "Minecraft Forge (1.18.2)",
                     "type": "Forge",
                     "artifact": {
-                        "size": 6908022,
-                        "MD5": "2284297ce3f76449350e569b9547bb88",
-                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/forge-1.18.2-40.0.24-installer.jar"
+                        "size": 6661580,
+                        "MD5": "db5df8dda42b3d788015a6d95dab169d",
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/forge-1.18.2-40.1.0-installer.jar"
                     },
                     "subModules": []
                 }
