@@ -144,7 +144,7 @@
             },
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.14.4-31.2.57:installer",
+                    "id": "net.minecraftforge:forge:1.14.4-28.2.26:installer",
                     "name": "Minecraft Forge (1.14.4)",
                     "type": "Forge",
                     "artifact": {
