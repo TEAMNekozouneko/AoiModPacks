@@ -132,7 +132,7 @@
             "name": "配信サーバーパック (1.14.4)",
             "description": "配信サーバー向けのパックです (1.14.4)",
             "icon": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/icon.jpg",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "address": "nekozouneko.ddns.net:25565",
             "minecraftVersion": "1.14.4",
             "mainServer": true,
