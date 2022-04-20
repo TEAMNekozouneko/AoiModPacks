@@ -99,6 +99,93 @@
             ]
         },
         {
+            "id": "Vanilla-1.15.2",
+            "name": "配信サーバーパック (1.15.2)",
+            "description": "配信サーバー向けのパックです (1.15.2)",
+            "icon": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/icon.jpg",
+            "version": "1.0.0",
+            "address": "nekozouneko.ddns.net:25565",
+            "minecraftVersion": "1.15.2",
+            "mainServer": true,
+            "autoconnect": true,
+            "discord": {
+                "shortId": "Minecraft",
+                "largeImageText": "Minecraft 1.15.2をプレイ中",
+                "largeImageKey": "nekozouneko"
+            },
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.15.2-31.2.57:installer",
+                    "name": "Minecraft Forge (1.15.2)",
+                    "type": "Forge",
+                    "artifact": {
+                        "MD5": "a651a604d6a9d31e997ec60e91c33826",
+                        "size": 6619925,
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.15.2/forge-1.15.2-31.2.57-installer.jar"
+                    },
+                    "subModules": []
+                }
+            ]
+        },
+        {
+            "id": "Vanilla-1.14.4",
+            "name": "配信サーバーパック (1.14.4)",
+            "description": "配信サーバー向けのパックです (1.14.4)",
+            "icon": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/icon.jpg",
+            "version": "1.0.0",
+            "address": "nekozouneko.ddns.net:25565",
+            "minecraftVersion": "1.14.4",
+            "mainServer": true,
+            "autoconnect": true,
+            "discord": {
+                "shortId": "Minecraft",
+                "largeImageText": "Minecraft 1.14.4をプレイ中",
+                "largeImageKey": "nekozouneko"
+            },
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.14.4-31.2.57:installer",
+                    "name": "Minecraft Forge (1.14.4)",
+                    "type": "Forge",
+                    "artifact": {
+                        "MD5": "906d799be8bb58ba911100a7be31f668",
+                        "size": 6509064,
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.14.4/forge-1.14.4-28.2.26-installer.jar"
+                    },
+                    "subModules": []
+                }
+            ]
+        },
+        {
+            "id": "Vanilla-1.13.2",
+            "name": "配信サーバーパック (1.13.2)",
+            "description": "配信サーバー向けのパックです (1.13.2)",
+            "icon": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/icon.jpg",
+            "version": "1.0.0",
+            "address": "nekozouneko.ddns.net:25565",
+            "minecraftVersion": "1.13.2",
+            "mainServer": true,
+            "autoconnect": true,
+            "discord": {
+                "shortId": "Minecraft",
+                "largeImageText": "Minecraft 1.13.2をプレイ中",
+                "largeImageKey": "nekozouneko"
+            },
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.13.2-25.0.223:installer",
+                    "name": "Minecraft Forge (1.13.2)",
+                    "type": "Forge",
+                    "artifact": {
+                        "MD5": "a9977fa3d4522daef2e3756731498335",
+                        "size": 6081883,
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.14.2/forge-1.14.2-25.0.223-installer.jar"
+                    },
+                    "subModules": []
+                }
+            ]
+        },
+        {
             "id": "Vanilla-1.12.2",
             "name": "配信サーバーパック (1.12.2)",
             "description": "配信サーバー参加用 (1.12.2)",
