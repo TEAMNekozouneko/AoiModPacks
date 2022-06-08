@@ -12,6 +12,35 @@
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
+            "id": "Vanilla-1.19",
+            "name": "配信サーバーパック (1.19)",
+            "description": "配信サーバー向けのパックです (1.19)",
+            "icon": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.18.2/icon.jpg",
+            "version": "1.0.0",
+            "address": "nekozouneko.ddns.net:25565",
+            "minecraftVersion": "1.19",
+            "mainServer": true,
+            "autoconnect": true,
+            "discord": {
+                "shortId": "Minecraft",
+                "largeImageText": "Minecraft 1.19をプレイ中",
+                "largeImageKey": "nekozouneko"
+            },
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.19-41.0.1:installer",
+                    "name": "Minecraft Forge (1.19)",
+                    "type": "Forge",
+                    "artifact": {
+                        "size": 6581639,
+                        "MD5": "9340e98c0ea15b54bacbe502e78e1be1",
+                        "url": "https://raw.githubusercontent.com/TEAMNekozouneko/AoiModPacks/master/packs/1.19/forge-1.19-41.0.1-installer.jar"
+                    },
+                    "subModules": []
+                }
+            ]
+        },
+        {
             "id": "Vanilla-1.18.2",
             "name": "配信サーバーパック (1.18.2)",
             "description": "配信サーバー向けのパックです (1.18.2)",
